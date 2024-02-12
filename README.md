@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I decided to code two years ago in 2021 following online tutorials and boot camps during the pandeic out of interest in learning a new skill. Years later I am able to solve web development problems using modern solutions with technologies like React and Next.JS. I love exploring new libraries and frameworks. I am ideally looking for a job front end focused but I have learnt to tackle problems Full Stack. I believe I can make an impact quickly.
+I decided to code two years ago in 2021 following online tutorials and boot camps during the pandemic out of interest in learning a new skill. Years later I am able to solve web development problems using modern solutions with technologies like React and Next.JS. I love exploring new libraries and frameworks. I am ideally looking for a job front end focused but I have learnt to tackle problems Full Stack. I believe I can make an impact quickly.
 
 * 🌍  I'm based in London, UK
 * 🖥️  See my portfolio at [Jonathan-gm](http://jonathan-gm.com)
